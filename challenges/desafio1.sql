@@ -114,9 +114,9 @@ VALUES
 ('UNDER PRESSURE', 152, 3),
 ('COMO NOSSOS PAIS', 105, 4),
 ('O MEDO DE AMAR E O MEDO DE SER LIVRE', 207, 5),
-('SAMBA EM PARIS', 267, 6),
+('Samba em Paris', 267, 6),
 ('THE BARDS SONG', 244, 7),
-('FEELING GOOD', 100, 8);
+('Feeling Good', 100, 8);
 
 CREATE TABLE IF NOT EXISTS `historico_de_reproducao` (
   `usuario_id` INT NOT NULL,
